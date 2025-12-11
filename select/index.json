@@ -1,0 +1,56 @@
+{
+  "version": 1,
+  "base_track": "SPEEDY RUNNER",
+  "base_artist": "KING & QUEEN",
+  "createdAt": "2025-12-11T15:09:01.228916Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "SPEEDY RUNNER",
+      "artist": "King Queen",
+      "has_synced": true,
+      "path": "select/01_SPEEDY_RUNNER_King_Queen.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Speedy Runner - Extended Mix",
+      "artist": "KING & QUEEN",
+      "has_synced": true,
+      "path": "select/02_Speedy_Runner_-_Extended_Mix_KING_&_QUEEN.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Speedy Runner",
+      "artist": "King & Queen",
+      "has_synced": true,
+      "path": "select/03_Speedy_Runner_King_&_Queen.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Speedy Runner",
+      "artist": "King & Queen",
+      "has_synced": true,
+      "path": "select/04_Speedy_Runner_King_&_Queen.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Speedy Runner",
+      "artist": "King&Queen",
+      "has_synced": true,
+      "path": "select/05_Speedy_Runner_King&Queen.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Speedy Runner",
+      "artist": "KING & QUEEN",
+      "has_synced": false,
+      "path": "select/pl_01_Speedy_Runner_KING_&_QUEEN.txt"
+    }
+  ]
+}
